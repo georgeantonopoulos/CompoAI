@@ -1,0 +1,7 @@
+{
+  "name": "CompoAI Studio",
+  "description": "A mobile-first professional image compositing tool powered by Gemini and Imagen. Create, layer, blend, and magically generate assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

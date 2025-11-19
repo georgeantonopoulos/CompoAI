@@ -1,0 +1,48 @@
+import React from 'react';
+import { 
+  Layers, 
+  Plus, 
+  Wand2, 
+  Move, 
+  Trash2, 
+  Eye, 
+  EyeOff, 
+  Lock, 
+  Unlock, 
+  ChevronUp, 
+  ChevronDown,
+  Download,
+  Image as ImageIcon,
+  Camera,
+  X,
+  Check,
+  Sparkles,
+  Menu,
+  SlidersHorizontal,
+  Scissors,
+  RefreshCcw
+} from 'lucide-react';
+
+export {
+  Layers,
+  Plus,
+  Wand2,
+  Move,
+  Trash2,
+  Eye,
+  EyeOff,
+  Lock,
+  Unlock,
+  ChevronUp,
+  ChevronDown,
+  Download,
+  ImageIcon,
+  Camera,
+  X,
+  Check,
+  Sparkles,
+  Menu,
+  SlidersHorizontal,
+  Scissors,
+  RefreshCcw
+};
